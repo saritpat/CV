@@ -1,5 +1,19 @@
+html {
+    height: 100%;
+    background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+    overflow: hidden;
+}
+
 body {
-    margin: 0;
-    background-color: rgb(47, 46, 109);
+    margin: 50;
     text-align: center;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+.img {
+    width: 200px;
+
 }
